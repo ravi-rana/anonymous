@@ -2,7 +2,7 @@
 * File Name : do_while.c
 * Purpose : Better to be a geek than an idiot
 * Creation Date : 29-08-2016
-* Last Modified : Mon Aug 29 21:36:29 2016
+* Last Modified : Sun Sep 18 00:47:12 2016
 * Created By : RB(https://github.com/bharose)
 ********************************************/
 
@@ -18,7 +18,7 @@ int main()
 		       printf("Really ?, u think u are coder :(\n");
 		       break;
 		}else {
-			printf("nice keep it up\n");
+			printf("nice keep it up, and have fun\n");
 		}
 	}while(1);
 	return 0;
