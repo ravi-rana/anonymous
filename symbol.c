@@ -3,17 +3,10 @@
 int main(){
 
 	int x;
-	scanf("%d", &x);
-	if(x == 10) {
-		printf("hey i am 10\n");
-	}else if(x == 5){
-		printf("hey i am 5\n");
-	}else if(x == 11){
-		printf("hey i am 11 \n");
-	}else {
-		printf("i don't know who i am \n");
-	}
+	x = (3 + 2) % 5;
+	printf("%d = ", x);
 
+	//http://www.difranco.net/compsci/C_Operator_Precedence_Table.htm
 	return 0;
 }
 

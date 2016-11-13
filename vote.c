@@ -13,7 +13,7 @@ int main()
 		printf("3nd div  ........\n");
 	} else {
 		printf("fail\n");
-	}
+	}	
 
 
 
