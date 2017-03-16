@@ -1,2 +1,3 @@
-am O 123 donor 10
-am B 123 donor 10
+ravi O 9456743532 donor 2
+sanju AB 953869392 donor 10
+ankit AB 954346521 buyer 5

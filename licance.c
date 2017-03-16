@@ -7,7 +7,8 @@ int main() {
 	
 	int markes_C;
 	int markes_P;
-	scanf("%d %d", &markes_C, &markes_P);
+	int markes_M;
+	scanf("%d %d %d", &markes_C, &markes_P,&markes_M);
 
 	if(markes_C >= 80 || markes_P >= 80 || markes_M >= 80) {
 		printf("You are eligele for IIT JEE\n");

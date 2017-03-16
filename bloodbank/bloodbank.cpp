@@ -44,7 +44,7 @@ int main()
 BloodBank::BloodBank()
 {
 	string bloodInfo = "inventory.txt";
-	ifstream ifs(bloodInfo);
+	ifstream ifs(bloodInfo.c_str());
 	string line;
 	while(getline(ifs,line)){
 		stringstream sst(line);
